@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png -diff -merge
+*.jpg -diff -merge
+*.jpeg -diff -merge
+*.webp -diff -merge
+*.gif -diff -merge
+*.ico -diff -merge
+*.pdf -diff -merge
